@@ -1,4 +1,4 @@
-# Monkey Buisness
+# Monkey Business
 <img src="https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/SMB-Logo.png" width="250" height="250">
 
 ## Pitch Français :
