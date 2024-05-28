@@ -17,18 +17,30 @@
 ![poster](https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/image.png?raw=true)
 
 ### Team :
-  - Joseph BOT - Programmeur
+  Joseph BOT - Programmeur :
+  
   <img src="https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/Joseph.png" width="200" height="200">
-  - Raphael MADELIN - Programmeur
+  
+  Raphael MADELIN - Programmeur :
+  
   <img src="https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/Raphael.png" width="200" height="200">
-  - Ewen RIALLAN - Programmeur
+  
+  Ewen RIALLAN - Programmeur :
+  
   <img src="https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/Ewen2.png" width="200" height="200">
-  - Ryan BLOT - Programmeur
+  
+  Ryan BLOT - Programmeur :
+  
   <img src="https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/Ryan.png" width="200" height="200">
-  - Sulivan MICHALON - Programmeur
+  
+  Sulivan MICHALON - Programmeur :
+  
   <img src="https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/Sulivan.png" width="200" height="200">
-  - Antoine LECHAT - 3D Artist Bénévole
+  
+  Antoine LECHAT - 3D Artist Bénévole :
+  
   <img src="https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/Antoine LeChat (Bénévole).png" width="200" height="200">
+  
 
 ### Screenshot :
 ![image1](https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/MonkeyBrawlPrezPicture1.png?raw=true)
