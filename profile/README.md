@@ -22,7 +22,7 @@
   - Raphael MADELIN - Programmeur
   <img src="https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/Raphael.png" width="200" height="200">
   - Ewen RIALLAN - Programmeur
-  <img src="https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/Ewen.png" width="200" height="200">
+  <img src="https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/Ewen2.png" width="200" height="200">
   - Ryan BLOT - Programmeur
   <img src="https://github.com/Monkey-Buisness-Team/.github/blob/main/profile/Ryan.png" width="200" height="200">
   - Sulivan MICHALON - Programmeur
